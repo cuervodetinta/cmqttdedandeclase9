@@ -9,13 +9,12 @@ st.markdown("""
     <style>
         body {
             background-color: #FFD6E8;
-            color: #5A0035;
         }
         .stApp {
             background-color: #FFD6E8;
         }
-        h1, h2, h3, h4, h5, h6 {
-            color: #5A0035;
+        h1, h2, h3, h4, h5, h6, p, span, label, .css-10trblm, .css-1v3fvcr {
+            color: #5A0035 !important;
         }
         .stButton>button {
             font-weight: bold;
